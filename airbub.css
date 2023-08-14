@@ -1,0 +1,49 @@
+
+.container1{
+    display: flex;
+}
+.header{
+    color: red;
+    margin-left: 50px;
+    display: flex;
+    margin-top: 8px;
+}
+.head{
+    display: inline-block;
+   text-decoration: none;
+   margin-left: 300px;
+   padding: 10px;
+   border: 2px solid black;
+   width: fit-content;
+   border-radius: 27px;
+   margin-bottom: 5px;
+   flex-wrap: wrap;
+   margin-top: 4px;
+}
+.kogo{
+    color: red;
+    background-color: red;
+}
+.login
+{
+    margin-top: 19px;
+    margin-left: 450px;
+}
+.color{
+    color: red;
+}
+.leans{
+    display: inline-block;
+}
+.picture{
+    display: flex;
+    justify-content: space-around;
+}
+.goat{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.footer{
+    display: inline-block;
+}
